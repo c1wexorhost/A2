@@ -2,7 +2,7 @@
 html,
 body {
 	height: 100%;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Jost", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 }
@@ -16,7 +16,7 @@ h6 {
 	margin: 0;
 	color: #111111;
 	font-weight: 400;
-	font-family: "Quantico", sans-serif;
+	font-family: "Jost", sans-serif;
 }
 
 h1 {
@@ -45,7 +45,7 @@ h6 {
 
 p {
 	font-size: 15px;
-	font-family: "Open Sans", sans-serif;
+	font-family: "Jost", sans-serif;
 	color: #666666;
 	font-weight: 400;
 	line-height: 26px;
@@ -134,7 +134,7 @@ ol {
 	background: #dcaa49;
 	text-transform: uppercase;
 	font-weight: 700;
-	font-family: "Quantico", sans-serif;
+	font-family: "Jost", sans-serif;
 }
 
 .site-btn {
@@ -143,7 +143,7 @@ ol {
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	font-family: "Quantico", sans-serif;
+	font-family: "Jost", sans-serif;
 	display: inline-block;
 	padding: 14px 30px 12px;
 	background: #dcaa49;
@@ -343,7 +343,7 @@ ol {
 	display: block;
 	padding: 32px 8px 30px;
 	position: relative;
-	font-family: "Quantico", sans-serif;
+	font-family: "Jost", sans-serif;
 }
 
 .nav-menu ul li a:after {
@@ -784,7 +784,7 @@ ol {
 	display: inline-block;
 	padding: 15px 102px 13px;
 	background: #000606;
-	font-family: "Quantico", sans-serif;
+	font-family: "Jost", sans-serif;
 }
 
 /*---------------------
